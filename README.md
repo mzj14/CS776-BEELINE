@@ -15,6 +15,8 @@
 
 * `inputs/example`: simulated datasets for 5 GRNs evaluation
 
+* `outputs/example`: evaluation results for 5 GRNs
+
 This is the main repository for BEELINE. The documentation is available at: [https://murali-group.github.io/Beeline/](https://murali-group.github.io/Beeline/).
 
 Quick setup:
