@@ -1,6 +1,20 @@
 # :honeybee: BEELINE: Benchmarking gEnE reguLatory network Inference from siNgle-cEll transcriptomic data :honeybee:
 ![Overview of BEELINE](docs/figs/overview-graphic.png )
 
+
+## Upates for CS776 project
+* `Algorithms/CORTO/`: Docker configuration and algorithm implementation for CORTO
+
+* `Algorithms/TENET/`: Docker configuration and algorithm implementation for TENET
+
+* `BLRun/cortoRunner.py`: runner script for CORTO
+
+* `BLRun/tenetRunner.py`: runner script for TENET
+
+* `config-files/`: run time configuration for 5 GRNs
+
+* `inputs/example`: simulated datasets for 5 GRNs evaluation
+
 This is the main repository for BEELINE. The documentation is available at: [https://murali-group.github.io/Beeline/](https://murali-group.github.io/Beeline/).
 
 Quick setup:
